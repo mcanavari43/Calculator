@@ -1,0 +1,29 @@
+.button-container{
+    height: 83px;
+    display: flex;
+    flex: 1 1;
+    justify-content: center;
+    padding: 5px;
+    align-items: center;
+    font-weight: bold;
+    font-size: 38px;
+    border: 2px solid #fff;
+    margin: 10px;
+    cursor: pointer;
+    user-select: none;
+    border: none;
+    border-radius: 25px;
+}
+
+.button-container:hover{
+    filter:  brightness(90%);
+}
+
+
+.operator{
+    background-color: rgb(247, 213, 23)
+}
+
+.operator:hover{
+    filter: brightness(95%);
+}

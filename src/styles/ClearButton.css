@@ -1,0 +1,19 @@
+.clear-button{
+    height: 83px;
+    font-size: 38px;
+    display: flex;
+    flex: 1 1;
+    justify-content: center;
+    padding: 5px;
+    align-items: center;
+    background-color: rgb(247, 213, 23);
+    border-radius: 25px;
+    border: 2px solid #fff;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 25px;
+}
+
+.clear-button:hover{
+    filter: brightness(95%);
+}
