@@ -1,15 +1,14 @@
 .input{
-    height: 75px;
-    border-radius: 50px;
-    margin-bottom: 20px;
+    height: 50px;
+    border-radius: 35px;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 20px;
     background-color: rgb(27, 27, 27);
     color: #fff;
-    padding: 11px 30px 11px 11px;
-    margin: 1px solid #888;
+    padding:5px;
+    margin-bottom: 10px;
     box-shadow: -1px 4px 1px 1px white ;
 }
